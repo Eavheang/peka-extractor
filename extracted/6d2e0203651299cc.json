@@ -1,0 +1,26 @@
+{
+  "source_id": "6d2e0203651299cc",
+  "source_sha256": "6d2e0203651299cc779f6340fe52a90cd2e7a51d02ad922b37f88307aaa6c36b",
+  "source_filename": "sample.pdf",
+  "source_path": "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample.pdf",
+  "source_extension": ".pdf",
+  "extracted_at": "2026-07-16T09:56:47.158451+00:00",
+  "sections": [
+    {
+      "page": 1,
+      "text": "Student Handbook\nPage 1 \u2013 Welcome\nWelcome to Our Institution\nWelcome to our institution! We are pleased to have you as part of our academic community. This \nhandbook provides important information about student responsibilities, campus expectations, and \navailable support services.\nOur goal is to provide a safe, respectful, and engaging learning environment where every student \nhas the opportunity to succeed.\nOur Mission\nTo provide quality education while promoting integrity, responsibility, creativity, and lifelong \nlearning.\nStudent Responsibilities\nAs a student, you are expected to:\n\u2022\nAttend classes regularly and arrive on time.\n\u2022\nComplete assignments before deadlines.\n\u2022\nRespect lecturers, staff, and fellow students.\n\u2022\nFollow school rules and regulations.\n\u2022\nMaintain academic honesty.\n\u2022\nTake care of school property.\nStudent Rights\nEvery student has the right to:\n\u2022\nLearn in a safe environment.\n\u2022\nBe treated fairly and respectfully.\n\u2022\nAccess academic resources and support services.\n\u2022\nParticipate in school activities and events.\n\u2022\nExpress opinions respectfully."
+    },
+    {
+      "page": 2,
+      "text": "Page 2 \u2013 Academic and Campus Policies\nAttendance Policy\nStudents should attend all scheduled classes. Frequent absences may affect academic performance \nand could result in disciplinary action.\nAcademic Integrity\nStudents must complete their own work. The following are considered violations:\n\u2022\nCheating during examinations\n\u2022\nPlagiarism\n\u2022\nCopying assignments\n\u2022\nUsing unauthorized materials\nViolations may result in reduced grades or disciplinary action.\nDress Code\nStudents should wear clean and appropriate clothing while on campus. Clothing with offensive \nlanguage or images is not permitted.\nCampus Conduct\nStudents are expected to:\n\u2022\nRespect all members of the campus community.\n\u2022\nKeep classrooms and common areas clean.\n\u2022\nAvoid disruptive behavior.\n\u2022\nFollow safety instructions during emergencies.\n\u2022\nReport any unsafe situations to staff immediately.\nUse of School Facilities\nStudents may use school facilities responsibly, including:\n\u2022\nLibrary\n\u2022\nComputer laboratories\n\u2022\nStudy rooms\n\u2022\nSports facilities"
+    },
+    {
+      "page": 3,
+      "text": "Any damage to school property may require reimbursement.\nPage 3 \u2013 Student Support and Contact Information\nStudent Services\nThe institution provides various support services, including:\n\u2022\nAcademic advising\n\u2022\nLibrary services\n\u2022\nCareer counseling\n\u2022\nIT support\n\u2022\nStudent activities\n\u2022\nHealth and wellness services\nStudents are encouraged to seek assistance whenever needed.\nCommunication\nStudents should regularly check their institutional email and learning management system for \nannouncements, schedules, and important updates.\nCode of Respect\nOur community values:\n\u2022\nRespect\n\u2022\nResponsibility\n\u2022\nHonesty\n\u2022\nDiversity\n\u2022\nTeamwork\nEvery student contributes to creating a positive learning environment.\nEmergency Procedures\nIn case of an emergency:\n1. Stay calm.\n2. Follow staff instructions.\n3. Use designated evacuation routes."
+    },
+    {
+      "page": 4,
+      "text": "4. Gather at the assigned assembly point.\n5. Wait for further instructions.\nContact Information\nStudent Affairs Office\n\u2022\nOffice Hours: Monday \u2013 Friday, 8:00 AM \u2013 5:00 PM\n\u2022\nEmail: studentaffairs@example.edu\n\u2022\nPhone: +1 (555) 123-4567\nThank you for being a valued member of our institution. We wish you a successful and enjoyable \nacademic journey."
+    }
+  ]
+}

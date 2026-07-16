@@ -1,0 +1,22 @@
+{
+  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample.pdf": {
+    "source_id": "6d2e0203651299cc",
+    "source_sha256": "6d2e0203651299cc779f6340fe52a90cd2e7a51d02ad922b37f88307aaa6c36b",
+    "output": "extracted/6d2e0203651299cc.json"
+  },
+  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample2.pdf": {
+    "source_id": "7cf196702e78c763",
+    "source_sha256": "7cf196702e78c763c9dca4211d152f88dcf4fd8a1c763b087d5fa7b9cc3372db",
+    "output": "extracted/7cf196702e78c763.json"
+  },
+  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample3.pdf": {
+    "source_id": "4d1bb4e97b0a364e",
+    "source_sha256": "4d1bb4e97b0a364e2cd1dc248f38ad27c3707145aa156f2fa576f238a51edf7e",
+    "output": "extracted/4d1bb4e97b0a364e.json"
+  },
+  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample4.pdf": {
+    "source_id": "3a1fccac70b3b5be",
+    "source_sha256": "3a1fccac70b3b5bebbae6a4d45863ba1afde0549370e00cc78086c7d2f55702e",
+    "output": "extracted/3a1fccac70b3b5be.json"
+  }
+}
