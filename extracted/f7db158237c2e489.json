@@ -1,0 +1,15 @@
+{
+  "source_id": "f7db158237c2e489",
+  "source_sha256": "4c7f37284a877260a9154b80ec92257136baca814d2beabcaee4829ddd25a28f",
+  "source_filename": "sample7.xlsx",
+  "source_path": "D:\\School Project\\peka-extractor\\test_data\\sample7.xlsx",
+  "source_extension": ".xlsx",
+  "extracted_at": "2026-07-24T14:47:53.240496+00:00",
+  "sections": [
+    {
+      "sheet": 1,
+      "name": "Sheet1",
+      "text": "Student ID Name Gender Age Grade Email\nSTU-001 Dara Sok Male 18 Grade 12 dara.sok@example.edu\nSTU-002 Sreyneang Chan Female 17 Grade 11 sreyneang.chan@example.edu\nSTU-003 Vannak Lim Male 19 Year 1 vannak.lim@example.edu\nSTU-004 Sophea Kim Female 18 Grade 12 sophea.kim@example.edu\nSTU-005 Rithy Chea Male 20 Year 2 rithy.chea@example.edu\nSTU-006 Bopha Heng Female 19 Year 1 bopha.heng@example.edu\nSTU-007 Piseth Touch Male 17 Grade 11 piseth.touch@example.edu\nSTU-008 Chanmony Ouk Female 21 Year 3 chanmony.ouk@example.edu\nSTU-009 Sothea Nhem Male 18 Grade 12 sothea.nhem@example.edu\nSTU-010 Malis Keo Female 20 Year 2 malis.keo@example.edu"
+    }
+  ]
+}

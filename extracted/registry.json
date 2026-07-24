@@ -1,22 +1,26 @@
 {
-  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample.pdf": {
-    "source_id": "6d2e0203651299cc",
-    "source_sha256": "6d2e0203651299cc779f6340fe52a90cd2e7a51d02ad922b37f88307aaa6c36b",
-    "output": "extracted/6d2e0203651299cc.json"
-  },
-  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample2.pdf": {
-    "source_id": "7cf196702e78c763",
+  "cdaf6296f9ef8d0d": {
+    "source_id": "cdaf6296f9ef8d0d",
     "source_sha256": "7cf196702e78c763c9dca4211d152f88dcf4fd8a1c763b087d5fa7b9cc3372db",
-    "output": "extracted/7cf196702e78c763.json"
+    "source_path": "D:\\School Project\\peka-extractor\\test_data\\sample2.pdf",
+    "output": "extracted\\cdaf6296f9ef8d0d.json"
   },
-  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample3.pdf": {
-    "source_id": "4d1bb4e97b0a364e",
-    "source_sha256": "4d1bb4e97b0a364e2cd1dc248f38ad27c3707145aa156f2fa576f238a51edf7e",
-    "output": "extracted/4d1bb4e97b0a364e.json"
+  "7fbac6bc0fec2ac0": {
+    "source_id": "7fbac6bc0fec2ac0",
+    "source_sha256": "23275d58b62b9c3396636582e1ef5219488ab8fd8181ab9db316cd6ddf51bba2",
+    "source_path": "D:\\School Project\\peka-extractor\\test_data\\sasmple5.pptx",
+    "output": "extracted\\7fbac6bc0fec2ac0.json"
   },
-  "/home/eavheang/Desktop/self-learning/python-basic/test_data/sample4.pdf": {
-    "source_id": "3a1fccac70b3b5be",
-    "source_sha256": "3a1fccac70b3b5bebbae6a4d45863ba1afde0549370e00cc78086c7d2f55702e",
-    "output": "extracted/3a1fccac70b3b5be.json"
+  "9c54687e5ca1248a": {
+    "source_id": "9c54687e5ca1248a",
+    "source_sha256": "7c389a8aa8f37318669d04285522ebbeb7ca98087e3ad4257058e98d55ad1804",
+    "source_path": "D:\\School Project\\peka-extractor\\test_data\\sample6.docx",
+    "output": "extracted\\9c54687e5ca1248a.json"
+  },
+  "f7db158237c2e489": {
+    "source_id": "f7db158237c2e489",
+    "source_sha256": "4c7f37284a877260a9154b80ec92257136baca814d2beabcaee4829ddd25a28f",
+    "source_path": "D:\\School Project\\peka-extractor\\test_data\\sample7.xlsx",
+    "output": "extracted\\f7db158237c2e489.json"
   }
 }

@@ -1,0 +1,86 @@
+{
+  "source_id": "9c54687e5ca1248a",
+  "source_sha256": "7c389a8aa8f37318669d04285522ebbeb7ca98087e3ad4257058e98d55ad1804",
+  "source_filename": "sample6.docx",
+  "source_path": "D:\\School Project\\peka-extractor\\test_data\\sample6.docx",
+  "source_extension": ".docx",
+  "extracted_at": "2026-07-24T14:50:34.384415+00:00",
+  "sections": [
+    {
+      "section": 0,
+      "text": "Student Handbook\nDocument Type: Student Handbook\nEffective Date: January 1, 2026\nAcademic Year: 2026\nIssued By: Student Affairs Office"
+    },
+    {
+      "section": 1,
+      "text": "1. Introduction\nThis Student Handbook provides students with important information about academic expectations, student behavior, campus services, safety requirements, and institutional procedures.\nAll students are expected to read and understand this handbook. By enrolling in the institution, students agree to follow the policies, procedures, and guidelines described in this document.\nThe institution is committed to providing a safe, respectful, inclusive, and supportive learning environment where students can develop academically and personally."
+    },
+    {
+      "section": 2,
+      "text": "2. Student Responsibilities\nStudents are responsible for:\nattending scheduled classes regularly;\narriving at classes and activities on time;\ncompleting assignments before the stated deadlines;\npreparing for lessons, examinations, and academic activities;\nfollowing instructions provided by lecturers and staff;\nmaintaining academic honesty and personal integrity;\ntreating other students, lecturers, staff, and visitors respectfully;\nprotecting institutional property and learning resources;\nkeeping their personal and contact information updated;\nchecking official announcements and academic notices regularly.\nStudents who do not understand a requirement should ask a lecturer, academic advisor, or Student Affairs representative for clarification."
+    },
+    {
+      "section": 3,
+      "text": "3. Attendance\nRegular attendance is important for academic success.\nStudents should attend all scheduled:\nlectures;\ntutorials;\nlaboratory sessions;\nexaminations;\nworkshops;\ngroup activities;\nrequired academic events.\nStudents who are unable to attend a class should inform the lecturer as early as possible.\nAn absence may be considered excused when it is caused by:\nillness;\na family emergency;\nan approved institutional activity;\nanother reason accepted by the institution.\nStudents may be required to provide supporting documentation for an extended absence.\nMissing classes does not remove a student\u2019s responsibility to complete assignments, review missed lessons, or meet academic deadlines."
+    },
+    {
+      "section": 4,
+      "text": "4. Punctuality\nStudents should arrive before each class begins.\nStudents who arrive late should:\nenter the classroom quietly;\navoid interrupting the lecturer or other students;\nfollow any attendance instructions;\nspeak with the lecturer after class when an explanation is required.\nRepeated lateness may be reported to the academic advisor or Student Affairs Office."
+    },
+    {
+      "section": 5,
+      "text": "5. Classroom Conduct\nStudents should help maintain a productive learning environment.\nDuring class, students should:\nlisten when another person is speaking;\nparticipate respectfully in discussions;\nfollow the lecturer\u2019s instructions;\nuse appropriate language;\nkeep mobile phones on silent mode;\navoid unnecessary conversations;\navoid actions that distract other students;\nuse laptops and mobile devices only for approved learning purposes;\nrespect different opinions and learning styles.\nStudents must not engage in bullying, harassment, discrimination, intimidation, or threatening behavior."
+    },
+    {
+      "section": 6,
+      "text": "6. Academic Integrity\nAcademic integrity means completing academic work honestly and responsibly.\nStudents must not:\ncopy another student\u2019s assignment;\nallow another person to complete their work;\nuse unauthorized notes or devices during an examination;\nsubmit work obtained from the internet as their own;\ninvent research data or references;\nchange academic records dishonestly;\nhelp another student cheat;\nsubmit the same assignment for multiple courses without approval.\nWhen using information from books, websites, articles, reports, or other sources, students must provide proper citations.\nSuspected academic misconduct may be reviewed by the lecturer, department, or academic committee.\nPossible outcomes may include:\na warning;\nresubmission of the assignment;\na reduced grade;\na score of zero;\nfailure of the course;\nsuspension;\nanother disciplinary action permitted by institutional policy."
+    },
+    {
+      "section": 7,
+      "text": "7. Assignment Submission\nStudents must submit assignments through the method specified by the lecturer.\nSubmission methods may include:\nthe online learning platform;\nemail;\nprinted submission;\ndepartmental submission;\nanother approved method.\nStudents should confirm that:\nthe correct file was submitted;\nthe file can be opened;\nthe student\u2019s name and identification number are included;\nall required sections are complete;\nthe assignment was submitted before the deadline.\nA technical problem should be reported immediately. Students should not wait until after the deadline to report a known issue.\nLate assignments may receive a penalty unless an extension has been approved."
+    },
+    {
+      "section": 8,
+      "text": "8. Examination Procedures\nStudents must follow examination instructions carefully.\nBefore an examination, students should:\nreview course materials;\nconfirm the examination date, time, and location;\narrive at least 20 minutes early;\nbring their student identification card;\nbring approved stationery and materials;\nleave prohibited items outside the examination area.\nDuring an examination, students must:\nsit in the assigned seat when required;\nfollow the invigilator\u2019s instructions;\nkeep mobile phones switched off;\navoid communicating with other students;\nuse only authorized materials;\nremain quiet;\nstop writing when instructed;\nsubmit all required examination materials before leaving.\nStudents who arrive late may be allowed to enter only according to examination rules. Additional time may not be provided.\nStudents who become ill during an examination should inform the invigilator immediately."
+    },
+    {
+      "section": 9,
+      "text": "9. Use of Technology\nInstitutional computers, internet services, online platforms, and digital resources must be used responsibly.\nStudents must:\nprotect their usernames and passwords;\navoid sharing accounts;\nuse institutional systems for lawful purposes;\nrespect copyright and intellectual property rights;\navoid accessing harmful or inappropriate content;\navoid installing unauthorized software;\navoid attempting to access another user\u2019s account;\nreport suspected security problems.\nStudents are responsible for activities performed through their accounts unless unauthorized access is reported promptly."
+    },
+    {
+      "section": 10,
+      "text": "10. Library Use\nStudents are encouraged to use the library for study and research.\nStudents should:\nmaintain a quiet environment;\nreturn borrowed materials on time;\nhandle books and equipment carefully;\nfollow computer and study-area rules;\navoid removing materials without authorization;\npay applicable replacement costs for lost or damaged items.\nFood and drinks may be restricted in certain library areas."
+    },
+    {
+      "section": 11,
+      "text": "11. Health and Safety\nStudents must follow all campus health and safety instructions.\nStudents should:\nparticipate in emergency drills;\nlearn the location of emergency exits;\nreport accidents and injuries immediately;\nreport damaged or unsafe equipment;\nkeep hallways and exits clear;\nfollow laboratory safety instructions;\navoid bringing dangerous or prohibited items onto campus;\nfollow instructions given by security or emergency personnel.\nIn an emergency, students should remain calm and follow official instructions."
+    },
+    {
+      "section": 12,
+      "text": "12. Respect for Institutional Property\nStudents must use classrooms, laboratories, furniture, computers, sports equipment, and other institutional property responsibly.\nStudents must not:\nintentionally damage property;\nwrite on walls, desks, or equipment;\nremove institutional property without permission;\nmisuse laboratory or technical equipment;\ninterfere with safety equipment;\naccess restricted areas without authorization.\nStudents may be required to pay for damage caused intentionally or through negligence."
+    },
+    {
+      "section": 13,
+      "text": "13. Student Support Services\nStudents who need assistance are encouraged to seek support early.\nAvailable support may include:\nacademic advising;\ncounseling services;\nlibrary assistance;\ndisability support;\ncareer guidance;\nfinancial aid information;\ntechnology support;\nhealth services;\npeer tutoring;\nstudent clubs and activities.\nStudents experiencing academic difficulties should contact their lecturer or academic advisor.\nStudents experiencing personal or emotional difficulties may contact the counseling or Student Affairs Office."
+    },
+    {
+      "section": 14,
+      "text": "14. Complaints and Appeals\nStudents may raise concerns about academic decisions, services, facilities, staff conduct, or student treatment.\nA student should normally:\ndiscuss the concern with the relevant lecturer or staff member;\ncontact the department or Student Affairs Office if the concern is unresolved;\nsubmit a formal written complaint when required;\nprovide relevant evidence and supporting information;\nfollow the appeal procedure if dissatisfied with the decision.\nComplaints should be submitted honestly and respectfully.\nThe institution should handle complaints fairly and protect confidential information where possible."
+    },
+    {
+      "section": 15,
+      "text": "15. Disciplinary Actions\nStudents who violate institutional rules may face disciplinary action depending on the seriousness and frequency of the behavior.\nPossible actions include:\nverbal warning;\nwritten warning;\nrequired counseling;\ncommunity service;\nrestriction from certain facilities;\nremoval from an activity;\nsuspension from classes;\nsuspension from the institution;\nexpulsion.\nBefore serious disciplinary action is imposed, the student should be informed of the concern and given an opportunity to respond according to institutional procedures."
+    },
+    {
+      "section": 16,
+      "text": "16. Student Commitment\nBy enrolling in the institution, students agree to:\nfollow institutional policies and procedures;\nmaintain academic honesty;\nrespect other members of the community;\nattend classes and complete academic responsibilities;\nuse institutional resources responsibly;\ncontribute to a safe and inclusive environment;\nrepresent the institution professionally."
+    },
+    {
+      "section": 17,
+      "text": "17. Review of the Handbook\nThis handbook may be reviewed and updated periodically.\nStudents will be informed when important changes are made. The latest approved version should be treated as the current handbook."
+    },
+    {
+      "section": 18,
+      "text": "18. Contact Information\nFor questions about this handbook, students should contact:\nStudent Affairs Office\nEmail: studentaffairs@example.edu\nTelephone: +855 00 000 000\nOffice Hours: Monday to Friday, 8:00 AM to 5:00 PM"
+    }
+  ]
+}
